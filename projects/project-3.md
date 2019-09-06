@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/guavaboard.jpg
-title: Cotton
+title: Weatherbox
 permalink: projects/guavaboard
 # All dates must be YYYY-MM-DD format!
 date: 2019-1-01
