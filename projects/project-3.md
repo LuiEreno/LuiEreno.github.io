@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/embryoimage.png
+image: images/guavaboard.jpg
 title: Cotton
-permalink: projects/cotton
+permalink: projects/guavaboard
 # All dates must be YYYY-MM-DD format!
 date: 2019-1-01
 labels:
