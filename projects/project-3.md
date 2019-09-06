@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/guavaboard.jpg
+image: images/guavarevc.jpg
 title: Weatherbox
 permalink: projects/guavaboard
 # All dates must be YYYY-MM-DD format!
