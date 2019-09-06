@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/embryoimage.png
 title: Embryo Image Processing
-permalink: projects/vacay
+permalink: projects/embryoImage
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
