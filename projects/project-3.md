@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/embryoimage.png
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: Designing, fabricating and deploying weatherboxes within the group Smart Campus Energy Lab.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+
 
 The state of Hawaii passed a law that promises that the entire state will be 100% renewable energy powered by the year 2035. In this way, students at UH manoa wanted to get ahead of this endeavor by promoting student ideas through the designing of weatherboxes. Weatherboxes are meant to gather metoerological data that will eventaully get stored inside the labs database. 
 
