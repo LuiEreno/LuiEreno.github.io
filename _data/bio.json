@@ -2,10 +2,10 @@
   "basics": {
     "name": "Aljaed Lui Ereno",
     "label": "Student",
-    "picture": "https://luiereno.github.io/images/aljaedlui.jpg",
+    "picture": "https://aljereno.github.io/images/aljaedlui.jpg",
     "email": "alereno@hawaii.edu",
     "phone": "808-256-4342",
-    "website": "https://luiereno.github.io",
+    "website": "https://aljereno.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "1451 A Kamehameha IV Road",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "luiereno",
-        "url": "http://github.com/LuiEreno"
+        "url": "http://github.com/aljereno"
       },
       {
         "network": "linkedin",
@@ -51,6 +51,8 @@
     {
       "name": "artificial intelligence",
       "keywords": [
+        "Neural Networks",
+        "Machine Learning"
       ]
     }
   ],
