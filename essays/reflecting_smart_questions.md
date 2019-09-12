@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Joys of JS
+title: Establishing Rocksolid Foundations
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-05
 labels:
@@ -19,14 +19,18 @@ Being a pleasant human being does not revolve around being an agreeable and conf
 ## Quality, Quintessential, Quick Query 
 https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array
 
-Stackoverflow makes it easy to sort through the best questions and answers through the concept of the upvote mecahnic. I chose one of the top voted not because of the unanimous positive reception, but also for its subject matter, phrasing and the helpfulness of the given answer. The question is simple "Why is processessing a sorted array faster than processing an unsorted array", to start off it just sounds like a curious programmer asking about the deep implementation of processing arrays. The way this person composed his/her body is pleasing to the eye due to formatting, areas focused into code, and explanation and insight underneath said code. Notable qualities of said post comes
+Stackoverflow makes it easy to sort through the best questions and answers through the concept of the upvote mecahnic. I chose one of the top voted not because of the unanimous positive reception, but also for its subject matter, phrasing and the helpfulness of the given answer. The question is simple "Why is processessing a sorted array faster than processing an unsorted array", to start off it just sounds like a curious programmer asking about the deep implementation of processing arrays. The way this person composed his/her body is pleasing to the eye due to formatting, areas focused into code, and explanation and insight underneath said code. 
 
-This plays well into Mr. Raymond's many qualities of how to ask smart questions such as: Describing the goal (Done through explanation of what he has thought of so far), being explicit (reiterated at the end of the post), 
+This plays well into Mr. Raymond's many qualities of how to ask smart questions such as: Describing the goal (Done through explanation of what he has thought of so far), being explicit (reiterated at the end of the post), and most importantly the subject header/title implies an informed and curious developer. Since it has demonstrated many characteristics of a smart question it is no wonder that it has garnered interesting and intelligent responses. The top answer in particular sticks out due to its use of explaining a term that a fledgling developer will encounter which is Branch Prediction Fail. The way the responder attributed such a fail to this particular question was enjoyable and easy to read. Such is what a perfect answer will attract.  
 
 ## Imperfect, Inane, Inelegent Inqueries 
 https://stackoverflow.com/questions/31867604/database-normalization-chaining
 
+Similar to sorting through the best questions there is also a way to filter out the questions that is not as beneficial. 
+This particular stackoverflow question does not seem bad from first glance; Although, the title is not posed as a question and what was being asked does not get revealed until the end. The poster is asking if the database he has modeled has the correct procedure for chaining. 
+
+In this case, the code he has posted is helpful in the sense that it contains syntax that the responders all seem to agree is correct. A point of contention is the posted code does not actually meet the developers desired implementation. As such, it would seem like the poster has another problem besides wondering if their chaining structure is correct. Furthermore the responder that agreed that their chaining is correct brought up a different solution without going further as to why such a solution should be regarded. Lastly, their discussion got moved into direct/private messaging and as such the post has lost even more usefulness for developers looking for database resources. 
 
 ## Personal Growth
 
-
+One could achieve many things with how they phrase their question. It's highly regarded in the workplace to always ask questions, but these questions should not be mundane and googleable. The point of learning is to see where the concept alligns with application and such an event will only be sparked with smart discussion.
