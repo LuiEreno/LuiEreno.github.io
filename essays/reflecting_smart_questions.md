@@ -32,7 +32,9 @@ The particular stackoverflow question I chose does not seem bad from first glanc
 <img class="ui image" src="../images/image1SO.png">
 <img class="ui image" src="../images/image2SO.png">
 
-A point of contention is the posted code does not actually meet the developers desired implementation. As such, it would seem like the poster has another problem besides wondering if their chaining structure is correct. Furthermore the responder that agreed that their chaining is correct brought up a different solution without going further as to why such a solution should be regarded. Lastly, their discussion got moved into direct/private messaging and as such the post has lost even more usefulness for developers looking for database resources. 
+A point of contention is the posted code does not actually meet the developers desired implementation. As such, it would seem like the poster has another problem besides wondering if their chaining structure is correct. Furthermore the responder that agreed that their chaining is correct brought up a different solution without going further as to why such a solution should be regarded. Interestingly, a responder recognized that this was a duplicate post from the same user and as such linked to a previous answer. Finally, it seems like some responders are not knowledgeable enough to attempt to answer because some definitions are even being argued over in replies. 
+
+<img class="ui image" src="../images/image3SO.png">
 
 ## Personal Growth
 
