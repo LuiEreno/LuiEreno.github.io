@@ -29,7 +29,10 @@ https://stackoverflow.com/questions/31867604/database-normalization-chaining
 Similar to sorting through the best questions there is also a way to filter out the questions that is not as beneficial. 
 The particular stackoverflow question I chose does not seem bad from first glance; Although, the title is not posed as a question and the inquery was saved until the end. What was asked is, does their method of chaining databases together follow the official paradigm. Some responces were that their implementation was fine while others questioned his methodology.  
 
-In this case, the code he has posted is helpful in the sense that it contains syntax that the responders all seem to agree is correct. A point of contention is the posted code does not actually meet the developers desired implementation. As such, it would seem like the poster has another problem besides wondering if their chaining structure is correct. Furthermore the responder that agreed that their chaining is correct brought up a different solution without going further as to why such a solution should be regarded. Lastly, their discussion got moved into direct/private messaging and as such the post has lost even more usefulness for developers looking for database resources. 
+<img class="ui image" src="../images/image1SO.png">
+<img class="ui image" src="../images/image2SO.png">
+
+A point of contention is the posted code does not actually meet the developers desired implementation. As such, it would seem like the poster has another problem besides wondering if their chaining structure is correct. Furthermore the responder that agreed that their chaining is correct brought up a different solution without going further as to why such a solution should be regarded. Lastly, their discussion got moved into direct/private messaging and as such the post has lost even more usefulness for developers looking for database resources. 
 
 ## Personal Growth
 
