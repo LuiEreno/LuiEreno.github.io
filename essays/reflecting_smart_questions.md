@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Establishing Rocksolid Foundations
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-05
+date: 2019-09-11
 labels:
   - Software Engineering
   - Learning
