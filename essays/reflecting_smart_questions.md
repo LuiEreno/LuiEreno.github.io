@@ -38,4 +38,4 @@ A point of contention is the posted code does not actually meet the developers d
 
 ## Personal Growth
 
-One could achieve many things with how they phrase their question. It's highly regarded in the workplace to always ask questions, but these questions should not be mundane and googleable. The point of learning is to see where the concept alligns with application and such an event will only be sparked with smart discussion.
+One could achieve many things with how they phrase their question. It's highly regarded in the workplace to always ask questions, but these questions should not be mundane and googleable. The point of learning is to see where the concept alligns with application and such an event will only be sparked with smart discussion. Furthermore, the idea that there are no bad questions instilled on us ever since grade school still stands. It's just the complete opposite of a smart question is a question thats waiting to be rephrased. 
