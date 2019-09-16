@@ -11,6 +11,7 @@ labels:
   - ES6
 ---
 
+<img class="ui image" src="../images/jsPic.png">
 
 ## The Joy
 
