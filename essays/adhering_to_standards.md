@@ -21,5 +21,6 @@ I'm now a convert, I think there is no other way to code and format projects. As
 
 ## Understanding
 
-In conclusion, in the beginning - like many things - problems will arise. It's our perceived difficulty and lack of willingnesss to change that will turn annoyances into serious issues within a codebases standard. In reality, such standards are put in place by developers with good intentions and even better understanding of the impact that bad cases will have on future developers. As such, we should grab hold of this code style and adhere to it 100 percent. 
+In conclusion, in the beginning - like many things - problems will arise. It's our perceived difficulty and lack of willingnesss to change that will turn annoyances into serious issues within a codebases standard. In reality, such standards are put in place by developers with good intentions and even better understanding of the impact that bad cases will have on future developers. My software engineering class' teaching assistant likened coding standards as the notes in sheet music. The notes are guidelines to what the music is supposed to sound like, but by itself it is not music. It's merely conventions to follow and adhere to, as we finish our tasks. 
+
 
