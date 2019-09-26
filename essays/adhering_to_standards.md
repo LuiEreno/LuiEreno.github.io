@@ -10,7 +10,7 @@ labels:
   - Standards
 ---
 
-<img class="ui image" src="">
+<img class="ui image" src="codingStandard.png">
 ## An Uphill Battle
 
 Being shackled to code in a certain way, to follow certain rules and adhere to strict regulations might seem like an arduous and menial task in the beginning. One already knows that documentation is important, but is formatting of said documentation really worth it. This annoyance travels further to writing code, seems superfluous to always add a space before the first curly brace of the function block. I thought documentation and formatting of said documentation was what the coding standards entailed, but little did I know that these were naive thoughts. Adding parenthesis' on the argument on an arrow function, space after the words if, while, for; horrendous. Or so I thought, I realized that the luxury that linting provides is to ensure that my eyes won't bleed when I have to look back at my spaghetti code. 
