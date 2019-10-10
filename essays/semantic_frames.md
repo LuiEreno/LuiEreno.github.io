@@ -8,10 +8,14 @@ labels:
   - Software Engineering
   - Learning
   - Standards
+  - Framework
+  - Semantic UI
+  - HTML & CSS
 ---
 
 <img class="ui image" src="../images/semantic_Image.png" alt="A pic of semantic framework">
-## Framed Work
+
+### Framed Work
 
 I struggle mainly with creating my own creative/artistic ideas. If I was given a set of task to do with a bit of structure, that's where I would excel. As such, creating websites is difficult because using raw css and html is not very friendly towards people who don't know what looks good. The fact that Semantic UI have created a framework that allows me to not worry about creating my own structures, containers and sections means that in the grand scheme of creating a website - I would have one less thing to worry about. 
 
