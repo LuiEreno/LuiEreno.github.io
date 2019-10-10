@@ -10,7 +10,7 @@ labels:
   - Standards
 ---
 
-<img class="ui image" src="../images/codingStandard.png">
+<img class="ui image" src="../images/.png" alt="A pic of semantic framework">
 ## An Uphill Battle
 
 
