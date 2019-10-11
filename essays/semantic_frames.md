@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Meaning of Language: Semantic
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-09
 labels:
