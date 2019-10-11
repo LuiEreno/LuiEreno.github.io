@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meaning of Language: Semantic
+title: A Simply Complex Framework
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-09
 labels:
