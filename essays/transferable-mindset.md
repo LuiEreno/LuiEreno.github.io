@@ -12,8 +12,6 @@ labels:
   - React
 ---
 
-<img class="ui image" src="../images/jsPic.png">
-
 ## Flexibility and Adaptability
 
 My highschool's motto was "Enter to Learn, Go Forth to Serve" this sentiment seems so simple, but its important when its 
