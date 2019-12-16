@@ -15,7 +15,7 @@ labels:
 
 ## Flexibility and Adaptability
 
-<img class="ui tiny centered spaced image" src="../images/fhsimage.jpeg">
+<center><img class="ui tiny spaced image" src="../images/fhsimage.jpeg"></center>
 
 My highschool's motto was "Enter to Learn, Go Forth to Serve" this sentiment seems so simple, but its important when its 
 especially applied to the type of work that software engineers could get into. Even though it has heavy connotations with morality
