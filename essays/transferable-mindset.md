@@ -46,9 +46,9 @@ debug the current boards, another could be testing the boards ability to gather 
 it's buttery, it's slick, it's all of the words that could describe a peak project. As such, entering this class taught me 
 a managing technique that I'm sure will be put to good use again not only in my future classes but for other non-school related projects.
 
-<img class="ui tiny centered spaced image" src="../images/semanticuireact.png">
-
 ## Framed Work
+
+<img class="ui tiny centered spaced image" src="../images/semanticuireact.png">
 
 One of the most satisfying things that have come out of learning how to create web applications is beautifying and modernizing
 a page. HTML and CSS and a bit of JavaScript satiated my front-end wants, but with the introduction of Semantic UI and Semantic UI React meant that my pages were now presentable to family - not friends yet. 
