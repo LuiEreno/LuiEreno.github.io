@@ -15,7 +15,7 @@ labels:
 
 ## Flexibility and Adaptability
 
-<img class="ui tiny center spaced image" src="../images/fhsimage.jpeg">
+<img class="ui tiny centered spaced image" src="../images/fhsimage.jpeg">
 
 My highschool's motto was "Enter to Learn, Go Forth to Serve" this sentiment seems so simple, but its important when its 
 especially applied to the type of work that software engineers could get into. Even though it has heavy connotations with morality
@@ -25,7 +25,7 @@ a sense of societal responsibility.
 
 ## Agile 
 
-<img class="ui tiny center spaced image" src="../images/agileimage.png">
+<img class="ui tiny centered spaced image" src="../images/agileimage.png">
 
 The textbook definition of agile is, able to move efficiently and easily, as such it can be surmised that an agile process
 prioritizes ease of use and fast development. The agile process was introduced to me when it came down to collaborating and
@@ -46,7 +46,7 @@ debug the current boards, another could be testing the boards ability to gather 
 it's buttery, it's slick, it's all of the words that could describe a peak project. As such, entering this class taught me 
 a managing technique that I'm sure will be put to good use again not only in my future classes but for other non-school related projects.
 
-<img class="ui tiny center spaced image" src="../images/semanticuireact.png">
+<img class="ui tiny centered spaced image" src="../images/semanticuireact.png">
 
 ## Framed Work
 
