@@ -15,14 +15,14 @@ labels:
 
 ## Flexibility and Adaptability
 
-<center><img class="ui tiny spaced image" src="../images/fhsimage.jpeg"></center>
+<center><img class="ui small spaced image" src="../images/fhsimage.jpeg"></center>
 
 My highschool's motto was "Enter to Learn, Go Forth to Serve" this sentiment seems so simple, but its important when its 
 especially applied to the type of work that software engineers could get into. Even though it has heavy connotations with morality and ethicality, I think it also easily applies to taking the generalized parts of software engineering into the real world. My software engineering class further developed the motto through managing the process of programming projects and developing a sense of societal responsibility.  
 
 ## Agile 
 
-<img class="ui tiny centered spaced image" src="../images/agileimage.png">
+<img class="ui small centered spaced image" src="../images/agileimage.png">
 
 The textbook definition of agile is, able to move efficiently and easily, as such it can be surmised that an agile process
 prioritizes ease of use and fast development. The agile process was introduced to me when it came down to collaborating and
