@@ -22,7 +22,7 @@ especially applied to the type of work that software engineers could get into. E
 
 ## Agile 
 
-<img class="ui small centered spaced image" src="../images/agileimage.png">
+<img class="ui medium spaced image" src="../images/agileimage.png">
 
 The textbook definition of agile is, able to move efficiently and easily, as such it can be surmised that an agile process
 prioritizes ease of use and fast development. The agile process was introduced to me when it came down to collaborating and
@@ -33,7 +33,7 @@ This process was definitely a layer of cake that I wholeheartedly swallowed part
 
 ## Framed Work
 
-<img class="ui centered spaced image" src="../images/semanticuireact.png">
+<img class="ui small spaced image" src="../images/semanticuireact.png">
 
 One of the most satisfying things that have come out of learning how to create web applications is beautifying and modernizing
 a page. HTML and CSS and a bit of JavaScript satiated my front-end wants, but with the introduction of Semantic UI and Semantic UI React meant that my pages were now presentable to family - not friends yet. This aspect of my software engineering class is the technical hands-on side. It allowed me to firmly visualize all my ideas which help when it comes down to furthering any project that comes along my way. 
