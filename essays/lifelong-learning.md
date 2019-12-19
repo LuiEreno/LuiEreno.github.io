@@ -10,10 +10,12 @@ labels:
   - Hobbies
 ---
 
-<img class="ui tiny right spaced image" src="../images/arch.jpeg">*Software Engineering*
+<img class="ui medium right spaced image" src="../images/arch.jpeg">
 ## Great Expectations
 
 Some may argue that software engineering is not real engineering, developers don't have to worry about stress testing bridge supports, what magic is involved with electromagnetism and physics or their environmental impact. Software engineers are people that can create things that the modern era have begun to stake their lives on: cyber security, data scraping/analysis, entertainment and many more. Most importantly they exhibit the fundamental virtue of engineering, and my favorite part about developing, which is proper problem solving.  
+
+<img class="ui medium right spaced image" src="../images/learningimage.png">
 
 ## "Let's Build an app together!"
 
