@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/guavarevc.jpg
+image: images/btl-logo.png
 title: Beyond the Library
 permalink: projects/guavaboard
 # All dates must be YYYY-MM-DD format!
