@@ -22,7 +22,7 @@ especially applied to the type of work that software engineers could get into. E
 
 ## Agile 
 
-<img class="ui medium spaced image" src="../images/agileimage.png">
+<img class="ui large spaced image" src="../images/agileimage.png">
 
 The textbook definition of agile is, able to move efficiently and easily, as such it can be surmised that an agile process
 prioritizes ease of use and fast development. The agile process was introduced to me when it came down to collaborating and
